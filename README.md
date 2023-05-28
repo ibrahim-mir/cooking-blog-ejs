@@ -1,1 +1,1 @@
-# cookinblog
+# cooking-blog-ejs
